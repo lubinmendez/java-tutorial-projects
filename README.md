@@ -1,19 +1,30 @@
 # Java Exercises
 
-A collection of Java exercises covering basic programming concepts and fundamentals.
+A collection of Java exercises covering programming fundamentals, data structures, and object-oriented programming concepts.
 
 ## Topics
 
-* Variables and data types
+* Variables and constants
+* Primitive data types
 * Operators and expressions
-* Conditional statements
-* Loops
-* Methods
+* Strings and string manipulation
+* Conditional statements (`if`, `switch`)
+* Arrays and collections
+* Lists, Sets, and Maps
+* Loops (`for`, `forEach`, `while`, `do-while`)
+* Methods and method overloading
+* Parameters and return values
 * Classes and objects
 * Constructors
-* Strings
-* User input
-* Basic object-oriented programming
+* Access modifiers
+* Inheritance
+* Polymorphism
+* Abstraction
+* Composition
+* Exception handling
+* Custom exceptions
+* Debugging and error handling
+* User input with `Scanner`
 
 ## Technologies
 

@@ -1,4 +1,4 @@
-package conditionals;
+package t_06_conditionals;
 
 public class Switch {
 

@@ -1,13 +1,13 @@
 # Java Exercises
 
-A collection of Java exercises covering programming fundamentals, data structures, and object-oriented programming concepts.
+A collection of Java t_99_exercises covering programming fundamentals, data structures, and object-oriented programming concepts.
 
 ## Topics
 
 * Variables and constants
 * Primitive data types
 * Operators and expressions
-* Strings and string manipulation
+* t_04_strings.Strings and string manipulation
 * Conditional statements (`if`, `switch`)
 * Arrays and collections
 * Lists, Sets, and Maps
@@ -33,7 +33,7 @@ A collection of Java exercises covering programming fundamentals, data structure
 ## Project Structure
 
 ```text
-java-exercises/
+java-t_99_exercises/
 ├── src/
 │   └── ...
 └── README.md

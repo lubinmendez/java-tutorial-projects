@@ -1,3 +1,5 @@
+package t_04_strings;
+
 public class Strings {
 
     public static void main(String[] args) {
@@ -35,7 +37,7 @@ public class Strings {
         String name2 = "Michael";
         String name3 ="Michael";
 
-        System.out.println(name2 == name3); // Even though you can use == to compare Strings, it can lead to unexpected results. Even if it works, it is recommended to use equals() instead of == when comparing Strings
+        System.out.println(name2 == name3); // Even though you can use == to compare t_03_strings.Strings, it can lead to unexpected results. Even if it works, it is recommended to use equals() instead of == when comparing t_03_strings.Strings
 
         System.out.println("--> equals()");
 

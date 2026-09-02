@@ -1,4 +1,4 @@
-package exercises;
+package t_99_exercises;
 
 public class ConditionalsExercises {
 
@@ -145,7 +145,7 @@ public class ConditionalsExercises {
 
         char exerciseNineLetter = 's';
 
-        // char is a primitive type, not an object, so it does not have methods like equals(), which can be used with Strings.
+        // char is a primitive type, not an object, so it does not have methods like equals(), which can be used with t_03_strings.Strings.
 
         if (exerciseNineLetter == 'a' ||
             exerciseNineLetter == 'e' ||

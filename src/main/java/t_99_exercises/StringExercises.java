@@ -1,4 +1,4 @@
-package exercises;
+package t_99_exercises;
 
 public class StringExercises {
 

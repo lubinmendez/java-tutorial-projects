@@ -17,5 +17,7 @@ public class Variables {
 
         long longNumber = 5223372036854775807L;  // L is added at the end; uppercase is recommended to avoid confusing it with the number 1
 
+        var name = "Juan"; // Java infers the data type from the value assigned to the variable
+
     }
 }

@@ -34,7 +34,7 @@ public class ArrayListLearnings {
 
     ArrayList<String> names = new ArrayList<String>();
 
-//🔹 Assign / Add
+//🔹 Add
 
     names.add("John");
     names.add("James");
@@ -48,14 +48,29 @@ public class ArrayListLearnings {
 //🔹 Modify
 
     names.set(1, "kobe");
+// You can not use = like in regular arrays, that is why in Array list whe use set()
 // To verify the modification:
 //    System.out.println("New name in position 1: " + names.get(1));
 
-//🔹 Remove
+//🔹 Search
 
- names.remove(1);
+//    names.contains("kobe")
+    System.out.println(names.contains("kobe"));
+
+
+//🔹 Remove one element
+
+    names.remove(1);
 // To verify remove:
 //    System.out.println(names.size());
+
+//🔹 Remove ALL element
+
+    names.clear();
+// To verify that all is remove:
+//    System.out.println(names.size());
+
+
 
 // 🔹 You can also declare an ArrayList using var:
 //

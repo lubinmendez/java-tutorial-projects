@@ -13,8 +13,21 @@ public class ScannerExercise {
 
         // 3 Read input:
         var age = keyboard.nextInt();
+        keyboard.nextLine();
 
         // Verify:
         System.out.println("age = " + age);
+
+        // ======
+
+        // 2 Print out to simulate a conversation
+        System.out.println("Enter your name:");
+        var name = keyboard.nextLine();
+
+        // Verify:
+        System.out.println("Name = " + name);
+
+
+
     }
 }

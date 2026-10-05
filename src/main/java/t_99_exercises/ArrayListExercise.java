@@ -46,7 +46,7 @@ public class ArrayListExercise {
 
         // Print transactions:
         for (int i = 0; i < charges.size(); i++) {
-            System.out.println(charges.get(i));
+            System.out.println("\t" + charges.get(i));
         }
 
         System.out.println("\nNumber of transactions: " + charges.size());

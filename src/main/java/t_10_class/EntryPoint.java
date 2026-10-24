@@ -11,6 +11,7 @@ public class EntryPoint {
         System.out.println("Rest: " + Aritmetic.substract(5, 3));
         System.out.println("Division: " + Aritmetic.divide(5, 3));
         System.out.println("Multiplication: " + Aritmetic.multiply(5, 3));
+        System.out.println(Person1);
 
     }
 }

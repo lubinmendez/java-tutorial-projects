@@ -1,15 +1,15 @@
-package t_14_inheritance;
+package t_14_inheritance.basic_inheritance.basic_inheritance;
 
 //Inheritance:
 // Is having methods in the parent class and writing extends ParentClassName in the child class.
 // This allows the child class to use methods defined in the parent class.
 
 public class AnimalsParent {
-    protected void eat() {
+    public void eat() {
         System.out.println("Eating...");
     }
 
-    protected void sleep() {
+    public void sleep() {
         System.out.println("Sleeping...");
     }
 }

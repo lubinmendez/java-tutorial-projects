@@ -1,4 +1,4 @@
-package t_14_inheritance;
+package t_14_inheritance.basic_inheritance.basic_inheritance;
 
 //Inheritance:
 // Is having methods in the parent class and writing extends ParentClassName in the child class.
@@ -9,5 +9,7 @@ public class DogChild extends AnimalsParent {
     public void bark() {
         System.out.println("Guau Guau");
     }
+
+
 
 }

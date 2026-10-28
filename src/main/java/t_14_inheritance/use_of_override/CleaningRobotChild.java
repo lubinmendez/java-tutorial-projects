@@ -1,4 +1,4 @@
-package t_14_inheritance.basic_inheritance.use_of_override;
+package t_14_inheritance.use_of_override;
 
 public class CleaningRobotChild extends RobotsParent {
 
@@ -8,7 +8,5 @@ public class CleaningRobotChild extends RobotsParent {
     public void charge() {
         System.out.println("Charging... Just a little");
     }
-
-
 
 }

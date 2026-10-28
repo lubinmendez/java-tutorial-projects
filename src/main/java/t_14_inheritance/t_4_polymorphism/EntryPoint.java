@@ -1,6 +1,4 @@
-package t_14_inheritance.polymorphism;
-
-import t_11_pack_b.Persona;
+package t_14_inheritance.t_4_polymorphism;
 
 public class EntryPoint {
 

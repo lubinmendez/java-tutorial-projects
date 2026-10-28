@@ -1,4 +1,4 @@
-package t_14_inheritance.use_of_super;
+package t_14_inheritance.t_3_use_of_super;
 
 public class EntryPoint {
     public static void main(String[] args) {

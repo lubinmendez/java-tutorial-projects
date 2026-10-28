@@ -1,4 +1,4 @@
-package t_14_inheritance.polymorphism;
+package t_14_inheritance.t_4_polymorphism;
 
 public class Cellphone {
 

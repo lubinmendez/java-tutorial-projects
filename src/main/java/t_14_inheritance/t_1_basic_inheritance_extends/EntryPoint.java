@@ -1,4 +1,4 @@
-package t_14_inheritance.t_1_basic_inheritance;
+package t_14_inheritance.t_1_basic_inheritance_extends;
 
 // Inheritance:
 // In the main method, once the object is created,

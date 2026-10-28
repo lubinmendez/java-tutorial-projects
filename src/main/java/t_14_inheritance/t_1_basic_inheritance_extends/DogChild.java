@@ -1,4 +1,4 @@
-package t_14_inheritance.t_1_basic_inheritance;
+package t_14_inheritance.t_1_basic_inheritance_extends;
 
 //Inheritance:
 // Is having methods in the parent class and writing extends ParentClassName in the child class.
